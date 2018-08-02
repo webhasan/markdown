@@ -11,8 +11,8 @@ npm install
 ```
 
 ### Resource Links:
-[Getting Start] (#)
-[Download] (#)
-[Componant] (#)
-[Quick Start] (#)
+[Getting Start](#)
+[Download](#)
+[Componant](#)
+[Quick Start](#)
 
